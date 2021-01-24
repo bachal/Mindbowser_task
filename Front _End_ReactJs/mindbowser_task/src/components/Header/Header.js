@@ -17,7 +17,7 @@ function Header(props) {
     }
 
     if(props.location.pathname === '/dashboard') {
-        title = 'Dashboard'
+        title = 'Home'
     }
     
     
